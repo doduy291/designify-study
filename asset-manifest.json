@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/designify-study/static/js/main.c0836fce.chunk.js",
+    "main.js.map": "/designify-study/static/js/main.c0836fce.chunk.js.map",
+    "runtime-main.js": "/designify-study/static/js/runtime-main.d2affbae.js",
+    "runtime-main.js.map": "/designify-study/static/js/runtime-main.d2affbae.js.map",
+    "static/js/2.f81fbef4.chunk.js": "/designify-study/static/js/2.f81fbef4.chunk.js",
+    "static/js/2.f81fbef4.chunk.js.map": "/designify-study/static/js/2.f81fbef4.chunk.js.map",
+    "index.html": "/designify-study/index.html",
+    "static/js/2.f81fbef4.chunk.js.LICENSE.txt": "/designify-study/static/js/2.f81fbef4.chunk.js.LICENSE.txt",
+    "static/media/airbnb.svg": "/designify-study/static/media/airbnb.96e62745.svg",
+    "static/media/amazon.svg": "/designify-study/static/media/amazon.4b29166b.svg",
+    "static/media/apple.svg": "/designify-study/static/media/apple.d5ba23ab.svg",
+    "static/media/coca-cola.svg": "/designify-study/static/media/coca-cola.6f881fee.svg",
+    "static/media/disney.svg": "/designify-study/static/media/disney.4d596961.svg",
+    "static/media/ecommerce.6bd9b1be.svg": "/designify-study/static/media/ecommerce.6bd9b1be.svg",
+    "static/media/facebook.svg": "/designify-study/static/media/facebook.ea45fbc1.svg",
+    "static/media/google.svg": "/designify-study/static/media/google.ef647c85.svg",
+    "static/media/hero-guy-1.c4657127.png": "/designify-study/static/media/hero-guy-1.c4657127.png",
+    "static/media/hero-pattern-bg-lg.13eb269c.png": "/designify-study/static/media/hero-pattern-bg-lg.13eb269c.png",
+    "static/media/hero-pattern-bg.4f2a6232.png": "/designify-study/static/media/hero-pattern-bg.4f2a6232.png",
+    "static/media/image-1.64a0d31d.png": "/designify-study/static/media/image-1.64a0d31d.png",
+    "static/media/image-2.610126c5.png": "/designify-study/static/media/image-2.610126c5.png",
+    "static/media/image-3.b6d74d50.png": "/designify-study/static/media/image-3.b6d74d50.png",
+    "static/media/landing-page.29d224f9.svg": "/designify-study/static/media/landing-page.29d224f9.svg",
+    "static/media/logo.ad41d486.svg": "/designify-study/static/media/logo.ad41d486.svg",
+    "static/media/lost.8f199481.svg": "/designify-study/static/media/lost.8f199481.svg",
+    "static/media/microsoft.svg": "/designify-study/static/media/microsoft.ddb16172.svg",
+    "static/media/netflix.svg": "/designify-study/static/media/netflix.c8479ece.svg",
+    "static/media/rocket.3bdfac8d.svg": "/designify-study/static/media/rocket.3bdfac8d.svg",
+    "static/media/tesla.svg": "/designify-study/static/media/tesla.738ef5fc.svg",
+    "static/media/youtube.svg": "/designify-study/static/media/youtube.880b4958.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2affbae.js",
+    "static/js/2.f81fbef4.chunk.js",
+    "static/js/main.c0836fce.chunk.js"
+  ]
+}
