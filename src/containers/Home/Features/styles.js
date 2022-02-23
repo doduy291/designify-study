@@ -1,5 +1,6 @@
 import styled from "@emotion/styled";
 import { Container } from "../../../globalStyles";
+import { motion } from "framer-motion";
 
 export const FeatureSection = styled.div`
   padding: 140px;
@@ -34,7 +35,7 @@ export const FeatureTextWrapper = styled.div`
     transform: translateX(-50%);
   }
 `;
-export const FeatureWrapper = styled.div`
+export const FeatureWrapper = styled(motion.div)`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   margin-top: 4rem;
@@ -50,7 +51,7 @@ export const FeatureWrapper = styled.div`
   }
 `;
 
-export const FeatureColumn = styled.div`
+export const FeatureColumn = styled(motion.div)`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -59,7 +60,7 @@ export const FeatureColumn = styled.div`
   /* @media screen and (max-width: 960px) {} */
 `;
 
-export const FeatureImageWrapper = styled.div`
+export const FeatureImageWrapper = styled(motion.div)`
   margin-bottom: 1rem;
   border-radius: 50%;
   padding: 30px;
@@ -88,7 +89,7 @@ export const FeatureImageWrapper = styled.div`
     background: linear-gradient(130deg, #59dbb0 0%, #feffb5 100%);
   }
 `;
-export const FeatureName = styled.h3`
+export const FeatureName = styled(motion.h3)`
   font-weight: 600;
   font-size: 1.3rem;
   letter-spacing: 2px;
@@ -98,7 +99,7 @@ export const FeatureName = styled.h3`
     letter-spacing: 1.3px;
   }
 `;
-export const FeatureText = styled.p`
+export const FeatureText = styled(motion.p)`
   margin: 1rem 0 auto;
   text-align: center;
   font-size: 0.9rem;

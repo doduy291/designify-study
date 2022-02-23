@@ -28,10 +28,11 @@ const Content = ({
   const initial = { opacity: 0, y: 30 };
   const transition = { delay: 0.3, duration: 0.6 };
   const animation = useAnimation();
-  const { ref, inView } = useInView({ threshold: 0.2 });
+  const { ref, inView } = useInView({ threshold: 0.7 });
 
   useEffect(() => {
     if (inView) {
+      console.log(inView);
       animation.start({ opacity: 1, y: 0 });
     }
   }, [inView, animation]);

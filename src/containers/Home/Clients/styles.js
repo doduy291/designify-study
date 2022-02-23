@@ -1,5 +1,6 @@
 import styled from "@emotion/styled";
 import { Container } from "../../../globalStyles";
+import { motion } from "framer-motion";
 
 export const ClientSection = styled.div`
   position: relative;
@@ -56,7 +57,7 @@ export const ClientRow = styled.div`
     align-items: center;
   }
 `;
-export const ClientColumn = styled.div`
+export const ClientColumn = styled(motion.div)`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -69,7 +70,7 @@ export const ClientColumn = styled.div`
     }
   }
 `;
-export const ClientWrapper = styled.div`
+export const ClientWrapper = styled(motion.div)`
   display: flex;
   align-items: center;
   justify-content: center;

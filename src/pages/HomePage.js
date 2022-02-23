@@ -12,7 +12,9 @@ const HomePage = () => {
       <Hero />
       <Features />
       <Clients />
-      <Heading id="projects">Our Projects</Heading>
+      <Heading id="projects" style={{ paddingTop: "140px" }}>
+        Our Projects
+      </Heading>
       <Content {...heroOne} />
       <Content {...heroTwo} />
       <Content {...heroThree} />
