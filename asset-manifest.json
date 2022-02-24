@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/designify-study/static/js/main.c0836fce.chunk.js",
-    "main.js.map": "/designify-study/static/js/main.c0836fce.chunk.js.map",
+    "main.js": "/designify-study/static/js/main.0c5a3034.chunk.js",
+    "main.js.map": "/designify-study/static/js/main.0c5a3034.chunk.js.map",
     "runtime-main.js": "/designify-study/static/js/runtime-main.d2affbae.js",
     "runtime-main.js.map": "/designify-study/static/js/runtime-main.d2affbae.js.map",
     "static/js/2.f81fbef4.chunk.js": "/designify-study/static/js/2.f81fbef4.chunk.js",
@@ -34,6 +34,6 @@
   "entrypoints": [
     "static/js/runtime-main.d2affbae.js",
     "static/js/2.f81fbef4.chunk.js",
-    "static/js/main.c0836fce.chunk.js"
+    "static/js/main.0c5a3034.chunk.js"
   ]
 }
