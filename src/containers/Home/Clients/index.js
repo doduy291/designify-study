@@ -14,7 +14,7 @@ import { clientsData } from "../../../data/ClientsData";
 import { useInView } from "react-intersection-observer";
 
 const Clients = () => {
-  const { ref, inView } = useInView({ threshold: 1 });
+  const { ref, inView } = useInView({ threshold: 0.3 });
 
   const variants1 = {
     initial: {
@@ -46,7 +46,11 @@ const Clients = () => {
       x: 0,
     },
   };
-
+  React.useEffect(() => {
+    if (inView) {
+      console.log(inView);
+    }
+  }, [inView]);
   return (
     <ClientSection id="clients" ref={ref}>
       <ClientContainer>
